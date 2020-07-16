@@ -32,7 +32,7 @@ cd
 clear
 
 #Logo
-figlet Themer | lolcat
+figlet Afridi | lolcat
 echo
 date | lolcat
 echo                        
