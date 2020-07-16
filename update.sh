@@ -1,7 +1,7 @@
 cd
 rm -rf Themer
 cd
-git clone https://github.com/hadiislam/Themer
-cd Themer
+git clone https://github.com/Mrbadmash/ahkhacker020
+cd ahkhacker020
 chmod +x *
-sh setup.sh
+sh Afridi.sh
