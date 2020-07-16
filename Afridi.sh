@@ -1,5 +1,5 @@
-#Made By Hadi Islam
-#Made in Bangladesh With ❤
+#Made By Ijaz Afridi
+#Made in Pakistan With ❤
 
 #colors
 R='\033[1;31m'
@@ -36,7 +36,7 @@ figlet Themer | lolcat
 echo
 date | lolcat
 echo                        
-echo $G"Made By Hadi Islam"
+echo $G"Made By Ijaz Afridi"
 echo
 echo $C""
 read -p"[Write Your Name]: " varbanner
