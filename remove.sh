@@ -1,7 +1,7 @@
 #Remove
 
-#Made By Hadi Islam
-#Made in Bangladesh With ❤
+#Made By Ijaz Afridi
+#Made By Pakistan With ❤
 
 #colors
 R='\033[1;31m'
