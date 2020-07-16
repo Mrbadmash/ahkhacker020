@@ -1,7 +1,7 @@
 #Remove
 
 #Made By Ijaz Afridi
-#Made By Pakistan With ❤
+#Made in Pakistan With ❤
 
 #colors
 R='\033[1;31m'
